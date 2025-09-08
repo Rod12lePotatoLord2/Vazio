@@ -11,3 +11,6 @@ def dividir(a, b):
     if b == 0:
         return "Erro: Divisão por 0!"
     return a / b
+
+def exponencial (a, b):
+    return a ** b
