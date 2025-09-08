@@ -15,25 +15,6 @@ def dividir(a, b):
 def exponencial (a, b):
     return a ** b
 
-✔️ b) Usar entrada do usuário (modo interativo no terminal)
-def somar(a, b):
-    return a + b
-
-def multiplicar(a, b):
-    return a * b
-
-def subtrair(a, b):
-    return a - b
-
-def dividir(a, b):
-    if b == 0:
-        return "Erro: Divisão por 0!"
-    return a / b
-
-def exponencial(a, b):
-    return a ** b
-
-# Programa principal
 print("Escolha a operação:")
 print("1 - Somar")
 print("2 - Subtrair")
