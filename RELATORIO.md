@@ -14,6 +14,7 @@
 
 - `v1.0`: Versão inicial com as quatro funções básicas: `somar`, `multiplicar`, `subtrair`, `dividir`
 - `v1.1`: Versão com adição da função `exponencial`
+- 'v1.2': Versão otimizada do código
 
 ---
 
