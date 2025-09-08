@@ -36,7 +36,15 @@ c8bcb27e (Juliana Andrade    2025-09-08 11:39:46 -0300 13)     return a / b
 c8bcb27e (Juliana Andrade    2025-09-08 11:39:46 -0300 15) def exponencial (a, b):
 c8bcb27e (Juliana Andrade    2025-09-08 11:39:46 -0300 16)     return a ** b
 
+## Versão v1.2
+
+### Alterações:
+- Implementação de chamadas diretas das funções matemáticas
+- Menu interativo para o usuário via terminal
+- Tratamento de erro para divisão por zero
+- Refatoração de código para maior legibilidade
+
 ### Responsabilidades
 
-### Rod12lePotatoLord2 (Rodrigo) foi responsável pelas funções: somar, multiplicar, tag v1.1
+### Rod12lePotatoLord2 (Rodrigo) foi responsável pelas funções: somar, multiplicar, melhorias no código, interface interativa tag v1.1 e v1.2
 ### Juliana Andrade foi responsável pelas funções: subtrair, dividir, exponencial, tag v1.0
